@@ -1,7 +1,7 @@
 你好，我是**失迹**。  
 一位 **ACGN / 设计 / 编程** 爱好者。
 
-Website: [reincarnatey.net](reincarnatey.net)  
+Website: [reincarnatey.net](https://reincarnatey.net)  
 Mail: [korita@reincarnatey.net](mailto:korita@reincarnatey.net)  
 Twitter: @kkkkkorita  
 Youtube: @Kria  

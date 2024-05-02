@@ -1,5 +1,5 @@
 你好，我是**失迹**。  
-一位 **ACGN / 设计 / 编程** 爱好者。
+一位 **编程 / 设计 / ACGN** 爱好者。
 
 Website: [reincarnatey.net](https://reincarnatey.net)  
 Mail: [korita@reincarnatey.net](mailto:korita@reincarnatey.net)  

@@ -7,6 +7,23 @@ Twitter: @kkkkkorita
 Youtube: @Kria  
 Discord: @Kria#4852  
 
+<a href="https://wakatime.com/@9b029946-d3d7-4021-993b-1ee294b8297a"><img align="center" src="https://wakatime.com/badge/user/9b029946-d3d7-4021-993b-1ee294b8297a.svg" ></a>
+<a href="https://komarev.com/ghpvc/?username=Mitr-yuzr&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=Mitr-yuzr&abbreviated=true"/></a>
+<img align=center src="https://img.shields.io/github/stars/Mitr-yuzr?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"/>
+<img align=center src="https://img.shields.io/github/followers/Mitr-yuzr?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"/>
+
+![Mitr-yuzr's stats](https://github-readme-stats.vercel.app/api?username=Mitr-yuzr&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitr-yuzr&locale=en&line_height=33&theme=&langs_count=5&layout=donut)
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Mitr-yuzr&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Mitr-yuzr&theme=light&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitr-yuzr&theme=default&hide_border=true" /> 
+</picture>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mitr-yuzr&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true"/>
+
 <!--
 **Mitr-yuzr/Mitr-yuzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,5 +38,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Mitr-yuzr's stats](https://github-readme-stats.vercel.app/api?username=Mitr-yuzr&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitr-yuzr&layout=compact)
